@@ -1,0 +1,14 @@
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\bin\Debug\net8.0\BankingControlPanel.Data.deps.json
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\bin\Debug\net8.0\BankingControlPanel.Data.runtimeconfig.json
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\bin\Debug\net8.0\BankingControlPanel.Data.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\bin\Debug\net8.0\BankingControlPanel.Data.pdb
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.csproj.AssemblyReference.cache
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.AssemblyInfoInputs.cache
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.AssemblyInfo.cs
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.csproj.CoreCompileInputs.cache
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\refint\BankingControlPanel.Data.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.pdb
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.genruntimeconfig.cache
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\ref\BankingControlPanel.Data.dll

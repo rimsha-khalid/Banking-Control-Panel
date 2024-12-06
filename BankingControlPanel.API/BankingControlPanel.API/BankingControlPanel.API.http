@@ -1,0 +1,6 @@
+@BankingControlPanel.API_HostAddress = http://localhost:5095
+
+GET {{BankingControlPanel.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
