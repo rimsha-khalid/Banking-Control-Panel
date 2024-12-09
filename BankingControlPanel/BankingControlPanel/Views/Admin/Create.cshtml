@@ -1,0 +1,138 @@
+﻿@model BankingControlPanel.Model.Models.ClientRegistration
+
+@{
+    ViewData["Title"] = "Register Client";
+}
+<!-- Back Button -->
+
+<div class="create-page">
+    <h2>@ViewData["Title"]</h2>
+    <a href="@Url.Action("Index", "Admin")" class="btn btn-secondary btn-sm back-btn">
+        <i class="fas fa-arrow-left"></i> Back
+    </a>
+    <form asp-controller="Admin" asp-action="Create" method="post" class="client-form" enctype="multipart/form-data">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <!-- Client Information -->
+        <div class="form-section">
+            <h3>Client Information</h3>
+            <div class="form-group">
+                <label asp-for="Email">Email</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName">First Name</label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName">Last Name</label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PersonalId">Personal Id</label>
+                <input asp-for="PersonalId" class="form-control" />
+                <span asp-validation-for="PersonalId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProfilePhoto">Profile Photo</label>
+                <input type="file" asp-for="ProfilePhoto" class="form-control" />
+                <span asp-validation-for="ProfilePhoto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MobileNumber">Mobile Number</label>
+                <input asp-for="MobileNumber" class="form-control" oninput="validatePhoneNumber()" />
+                <span asp-validation-for="MobileNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sex">Sex</label>
+                <select asp-for="Sex" class="form-control">
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+                <span asp-validation-for="Sex" class="text-danger"></span>
+            </div>
+        </div>
+
+        <!-- Address Information -->
+        <div class="form-section">
+            <h3>Address Information</h3>
+            <div class="form-group">
+                <label asp-for="Country"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Street"></label>
+                <input asp-for="Street" class="form-control" />
+                <span asp-validation-for="Street" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ZipCode"></label>
+                <input asp-for="ZipCode" class="form-control" />
+                <span asp-validation-for="ZipCode" class="text-danger"></span>
+            </div>
+        </div>
+
+        <!-- Account Information -->
+        <div class="form-section">
+            <h3>Account Information</h3>
+            <div class="form-group">
+                <label asp-for="AccountNumber"></label>
+                <input asp-for="AccountNumber" class="form-control" />
+                <span asp-validation-for="AccountNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Balance"></label>
+                <input asp-for="Balance" class="form-control" />
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccountType"></label>
+                <select asp-for="AccountType" class="form-control">
+                    <option value="Current">Current</option>
+                    <option value="Saving">Saving</option>
+                </select>
+                <span asp-validation-for="AccountType" class="text-danger"></span>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-submit">Register Client</button>
+    </form>
+</div>
+
+<!-- Success Message -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@section Scripts {
+<script>
+function validatePhoneNumber() {
+    let inputField = document.getElementById('phoneNumber');
+    let value = inputField.value;
+
+    // Add +92 if not present
+    if (!value.startsWith('+92')) {
+        inputField.value = '+92' + value.replace('+92', ''); // Ensure +92 is at the start
+    }
+
+    // Now validate the rest of the number
+    let regex = /^[+]92[0-9]{8,11}$/;
+    if (!regex.test(inputField.value)) {
+        inputField.setCustomValidity('Phone number must start with +92 followed by 8 to 11 digits');
+    } else {
+        inputField.setCustomValidity(''); // Valid phone number
+    }
+}
+    </script>
+}

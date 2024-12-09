@@ -51,7 +51,7 @@ namespace BankingControlPanel.API.Controllers
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
         }
-        [Authorize(Roles = "Admin, User")]
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<ActionResult<Account>> AddAccount(Account account)
         {
@@ -65,7 +65,7 @@ namespace BankingControlPanel.API.Controllers
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
         }
-        [Authorize(Roles = "User")]
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
         public async Task<ActionResult<Client>> UpdateAccount(int id, Account account)
         {
@@ -88,7 +88,7 @@ namespace BankingControlPanel.API.Controllers
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
         }
-        [Authorize(Roles = "User")]
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
         public async Task<ActionResult<Account>> DeleteAccount(int id)
         {

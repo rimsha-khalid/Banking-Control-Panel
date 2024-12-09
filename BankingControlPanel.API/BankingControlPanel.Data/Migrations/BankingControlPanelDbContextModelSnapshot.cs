@@ -45,9 +45,6 @@ namespace BankingControlPanel.Data.Migrations
                     b.Property<int>("ClientId")
                         .HasColumnType("int");
 
-                    b.Property<bool>("IsActive")
-                        .HasColumnType("bit");
-
                     b.HasKey("AccountId");
 
                     b.HasIndex("ClientId");
@@ -105,9 +102,6 @@ namespace BankingControlPanel.Data.Migrations
                         .HasMaxLength(59)
                         .HasColumnType("nvarchar(59)");
 
-                    b.Property<bool>("IsActive")
-                        .HasColumnType("bit");
-
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasMaxLength(59)
@@ -140,29 +134,6 @@ namespace BankingControlPanel.Data.Migrations
                     b.ToTable("Clients");
                 });
 
-            modelBuilder.Entity("BankingControlPanel.Data.Models.Filter", b =>
-                {
-                    b.Property<int>("FilterId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FilterId"));
-
-                    b.Property<DateTime>("FilterAt")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("FilterParams")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("IsSuccessful")
-                        .HasColumnType("bit");
-
-                    b.HasKey("FilterId");
-
-                    b.ToTable("Filters");
-                });
-
             modelBuilder.Entity("BankingControlPanel.Data.Models.Pagination", b =>
                 {
                     b.Property<int>("Id")
@@ -171,27 +142,15 @@ namespace BankingControlPanel.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("FilterFirstName")
+                    b.Property<string>("Filter")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("FilterLastName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("FilterSex")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("PageNumber")
+                    b.Property<int>("TotalPages")
                         .HasColumnType("int");
 
-                    b.Property<int>("PageSize")
+                    b.Property<int>("TotalRecords")
                         .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

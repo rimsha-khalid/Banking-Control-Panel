@@ -16,6 +16,7 @@ namespace BankingControlPanel.API.Controllers
         {
             _jwtAuthentication = jwtAuthentication;
         }
+     
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] User user)
         {
@@ -40,9 +41,9 @@ namespace BankingControlPanel.API.Controllers
                 { 
                     return Unauthorized("Invalid email or password.");
                 }
-                var token = _jwtAuthentication.GenerateToken(user);
+               
                 // Return the generated token directly
-                return Ok(token);
+                return Ok(response);
 
             }
             catch (Exception ex)

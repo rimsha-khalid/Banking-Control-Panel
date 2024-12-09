@@ -41,19 +41,19 @@ namespace BankingControlPanel.API.Services.Jwt
                 throw new UnauthorizedAccessException("Role mismatch"); // Throw exception for role mismatch
             }
 
-            return GenerateToken(user); // Return token if authentication is successful
+            return GenerateToken(user.UserId, user.Email, user.Role); // Return token if authentication is successful
         }
         // Method to generate a JWT token for the authenticated user
-        public string GenerateToken(User user)
+        public string GenerateToken(int id, string email, string role)
         {
             // Create a list of claims to include in the token
 
             var claims = new List<Claim>
                 {
-
-                    new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString()), // User's id claim
-                    new Claim(ClaimTypes.Email, user.Email),    // User's email claim
-                    new Claim(ClaimTypes.Role, user.Role),      // User's role claim
+                
+                    new Claim(ClaimTypes.NameIdentifier, id.ToString()), // User's id claim
+                    new Claim(ClaimTypes.Email, email),    // User's email claim
+                    new Claim(ClaimTypes.Role, role),      // User's role clai
                 };
 
             // Create a symmetric security key using the secret key from the configuration

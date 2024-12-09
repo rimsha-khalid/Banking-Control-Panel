@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
+using static BankingControlPanel.API.Repositories.Clients.ClientRepository;
 
 namespace BankingControlPanel.API.Controllers
 {
@@ -18,69 +19,43 @@ namespace BankingControlPanel.API.Controllers
         {
             _client = client;
         }
-        [Authorize(Roles = "Admin")]
-        [HttpGet("GetAllClients")]
-        public async Task<IActionResult> GetClients(
-         [FromQuery] string firstName = "",
-         [FromQuery] string lastName = "",
-         [FromQuery] string sex = "",
-         [FromQuery] string sortBy = "ClientId",
-         [FromQuery] string sortOrder = "asc",
-         [FromQuery] int pageNumber = 1,
-         [FromQuery] int pageSize = 10)
+        // Get Paginated Clients
+        [HttpGet("PagenatedData")]
+        public async Task<ActionResult<PaginationResult>> GetClientsPagination(
+            [FromQuery] int pageNum = 1,
+            [FromQuery] int pageSize = 10,
+            [FromQuery] string? sort = null,
+            [FromQuery] Sex? sex = null)
         {
             try
             {
-                // Extract the UserId from the JWT token(current user's claims)
-                var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                // Call the Pagination method from the repository
+                var result = await _client.Pagination(pageNum, pageSize, sort, sex);
 
-                if (string.IsNullOrEmpty(userId))
+                // If the result is null, return a NotFound response
+                if (result == null)
                 {
-                    return Unauthorized("User is not authenticated");
+                    return NotFound(new { message = "No clients found." });
                 }
-                var response = await _client.GetClientsAsync(firstName, lastName, sex, sortBy, sortOrder, pageNumber, pageSize, userId);
-                if (response == null)
-                {
-                    return NotFound("No client found");
-                }
-                return Ok(response);
 
+                // Return the paginated result
+                return Ok(result);
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
+                // Log the error (you can implement your own logging mechanism here)
+                return StatusCode(500, new { message = "An error occurred while processing the request.", details = ex.Message });
             }
         }
 
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin, User")]
         [HttpGet]
         public async Task<ActionResult<List<Client>>> GetAllClient()
         {
             var response = await _client.GetAllClient();
             return Ok(response);
         }
-        [Authorize(Roles = "Admin")]
-        [HttpGet ("Pagination")]
-        public async Task<IActionResult> GetAllClient(int pageNumber, int pageSize)
-        {
-            try
-            {
-                var response = await _client.GetAllClient(pageNumber, pageSize);
-                if (response == null)
-                {
-                    return NotFound("No client found");
-                }
-                return Ok(response);
-
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
-            }
-          
-        }
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin, User")]
         [HttpGet("GetClientByID/{id}")]
         public async Task<ActionResult<Client>> GetClientByID(int id)
         {
@@ -95,10 +70,19 @@ namespace BankingControlPanel.API.Controllers
         [HttpPost("RegisterClient")]
         public async Task<ActionResult<Client>> AddClient(Client client)
         {
-            var response = await _client.AddClient(client);
-            return Ok(response);
+            try
+            {
+                // Attempt to add the client using the repository method
+                var response = await _client.AddClient(client);
+                return Ok(response);  // Return the created client object if successful
+            }
+            catch (Exception ex)
+            {
+                // Return a generic error message for unexpected exceptions
+                return BadRequest(new { message = "Email is not assicaited to any user or belongs to Admin" });
+            }
         }
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin, User")]
         [HttpPut("{id}")]
         public async Task<ActionResult<Client>> UpdateClient(int id, Client client)
         {
@@ -125,48 +109,7 @@ namespace BankingControlPanel.API.Controllers
             }
             return Ok();
         }
-        [Authorize(Roles = "Admin")]
-        [HttpGet("GetFilteredClients")]
-        public async Task<IActionResult> FilterClients(string filterParams)
-        {
-            var response = await _client.FilterClients(filterParams);
-            if (response == null || response.Count == 0)
-            {
-                return NotFound("No client found with this name");
-            }
-            return Ok(response);
-        }
-        [Authorize(Roles = "Admin")]
-        [HttpGet("Sort")]
-        public async Task<IActionResult> SortClients([FromQuery] string sortBy = "asc")
-        {
-            if (sortBy != "asc" && sortBy != "desc")
-            {
-                return BadRequest("Invalid sort order. Use 'asc' for ascending or 'desc' for descending.");
-            }
-            var response = await _client.GetSortedClients(sortBy);
-
-            return Ok(response);
-        }
-      
-        //[HttpGet("GetPaginatedClients")]
-        //public async Task<IActionResult> Pagination(int pageNumber, int pageSize)
-        //{
-        //    try
-        //    {
-        //        var response = await _client.Pagination(pageNumber, pageSize);
-        //        if (response == null)
-        //        {
-        //            return NotFound("No clients found.");
-        //        }
-        //        return Ok(response);
-
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        return StatusCode(500, $"Internal server error: {ex.Message}");
-        //    }
-        //}
+   
     }
 
 }

@@ -24,12 +24,7 @@ namespace BankingControlPanel.API.Repositories.Accounts
         }
         public async Task<Account> AddAccount(Account account)
         {
-           // var client = await _context.Clients.FirstOrDefaultAsync(c => c.Email == account.Email);
-
-            //if (client == null)
-            //{
-            //    return null;
-            //}
+            
             await _context.Accounts.AddAsync(account);
             await _context.SaveChangesAsync();
             return account;
@@ -38,27 +33,23 @@ namespace BankingControlPanel.API.Repositories.Accounts
         public async Task<Account> UpdateAccount(int id, Account account)
         {
             var existingAccount = await _context.Accounts.FindAsync(id);
+
             if (id != account.AccountId)
             {
+
                 return null;
             }
+            else
+            {
+                existingAccount.AccountNumber = account.AccountNumber;
+                existingAccount.Balance = account.Balance;
+                existingAccount.AccountType = account.AccountType;
 
-            //// Update the fields of the existing account (excluding the Client relationship)
-            //existingAccount.Email = account.Email;
-            //existingAccount.Password = account.Password;
-            //existingAccount.Role = account.Role;
-
+            }
 
             await _context.SaveChangesAsync();
-
             return existingAccount;
-            //if (id != account.AccountId)
-            //{
-            //    return null;
-            //}
-            //Context.Entry(account).State = EntityState.Modified;
-            //await Context.SaveChangesAsync();
-            //return account;
+ 
         }
 
         public async Task<Account> DeleteAccount(int id)

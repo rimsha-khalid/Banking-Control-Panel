@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankingControlPanel.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ad69c95c9c9e5eb3787a67e21b93b77f53fc995")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankingControlPanel.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankingControlPanel.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

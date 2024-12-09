@@ -23,7 +23,7 @@ namespace BankingControlPanel.API.Controllers
          
         [Authorize(Roles = "Admin")]
         // HttpGet/Search - To search Clients from datasource
-        [HttpGet("Search")]
+        [HttpGet]
         public async Task<IActionResult> SearchClients(string searchRecord)
         {
             // Perform search operation using provided search record

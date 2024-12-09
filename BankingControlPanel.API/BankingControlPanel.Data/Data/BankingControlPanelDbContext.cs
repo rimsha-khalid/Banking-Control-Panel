@@ -16,10 +16,9 @@ namespace BankingControlPanel.Data.Data
         public DbSet<Client> Clients { get; set; } // DbSet representing the Clients table in the database
         public DbSet<Address> Addresses { get; set; } // DbSet representing the Addresses table in the database
         public DbSet<Account> Accounts { get; set; } // DbSet representing the Accounts table in the database
-        public DbSet<Filter> Filters { get; set; } // DbSet representing the Filters table in the database
         public DbSet<Search> Searches { get; set; } // DbSet representing the Searches table in the database
         public DbSet<User> Users { get; set; } // DbSet representing the Users table in the database
-        public DbSet<Pagination> Paginations { get; set; } // DbSet representing the Pagination table in the database
+        public DbSet<Pagination> Paginations { get; set; } // DbSet representing the Pagination table in the databas
 
 
         // Configures the model and its relationships

@@ -28,7 +28,7 @@ namespace BankingControlPanel.Data.Models
         public string? LastName { get; set; } // Required last name of the client, must be less than 60 characters
         [Required(ErrorMessage = "Perosnal Id is required.")]
         [RegularExpression("^\\d{11}$", ErrorMessage = "Peronal Id should be exactly 11 characters")]
-        public string? PersonalId { get; set; } // Required personal Id of the client, must be exactly 11 digits
+        public string PersonalId { get; set; } // Required personal Id of the client, must be exactly 11 digits
         public string? ProfilePhoto {  get; set; }  // Represents profile photo URL or path
 
         [MobileNumberValidation(ErrorMessage = "Invalid phone number format. Ensure you use the correct format like +92 or 0092.")]
@@ -37,7 +37,7 @@ namespace BankingControlPanel.Data.Models
         [Required(ErrorMessage = "Sex is required.")]
         [EnumValidation(typeof(Sex))]
         public Sex Sex { get; set; } // Required sex of the client, must be one of the defined enum values
-        public bool IsActive { get; set; } // Indicates if the client is active
+ 
         public virtual Address Address { get; set; }  // Navigation property of Clients's Address
 
         [ForeignKey("UserId")]
@@ -46,8 +46,9 @@ namespace BankingControlPanel.Data.Models
         [JsonIgnore]
         public virtual User? User { get; set; } // Navigation property for assocaited User and ignored during JSON serialization
 
-        public virtual ICollection<Account>? Account { get; set; } // Navigation Property for Client's Account
-
+        public virtual ICollection<Account> Account { get; set; } // Navigation Property for Client's Account
+        //[JsonIgnore]
+        //public virtual ICollection<Search>? Searches { get; set; } // Navigation Property for Client's Account
     }
     public enum Sex
     {

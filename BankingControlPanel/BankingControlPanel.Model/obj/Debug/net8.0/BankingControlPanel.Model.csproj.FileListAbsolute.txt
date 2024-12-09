@@ -1,0 +1,13 @@
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\bin\Debug\net8.0\BankingControlPanel.Model.deps.json
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\bin\Debug\net8.0\BankingControlPanel.Model.dll
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\bin\Debug\net8.0\BankingControlPanel.Model.pdb
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.csproj.AssemblyReference.cache
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.AssemblyInfoInputs.cache
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.AssemblyInfo.cs
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.csproj.CoreCompileInputs.cache
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.dll
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\refint\BankingControlPanel.Model.dll
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.pdb
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\ref\BankingControlPanel.Model.dll
+D:\Internship\FinalAssignment\BankingControlPanel\BankingControlPanel.Model\obj\Debug\net8.0\BankingControlPanel.Model.sourcelink.json

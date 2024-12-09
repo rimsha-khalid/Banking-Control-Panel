@@ -1,4 +1,5 @@
-﻿using BankingControlPanel.API.Repositories.Users;
+﻿using BankingControlPanel.API.Repositories.Clients;
+using BankingControlPanel.API.Repositories.Users;
 using BankingControlPanel.Data.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -35,6 +36,13 @@ namespace BankingControlPanel.API.Controllers
                 // Exception handling return a 500 Internal Server Error response with the exception message
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
+        }
+        [Authorize(Roles = "Admin")]
+        [HttpGet("GetAllUser")]
+        public async Task<ActionResult<List<User>>> GetAllClient()
+        {
+            var response = await _user.GetAllUser();
+            return Ok(response);
         }
     }
 }

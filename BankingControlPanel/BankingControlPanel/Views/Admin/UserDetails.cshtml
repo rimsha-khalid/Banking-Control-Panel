@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Client Profile";
+}
+
+<h2 class="text-center">@ViewData["Title"]</h2>
+
+<!-- Back Button -->
+<a href="@Url.Action("Index", "Admin")" class="btn btn-secondary btn-sm back-btn mb-3">
+    <i class="fas fa-arrow-left"></i> Back
+</a>
+
+<!-- Display Success or Error Messages -->
+@if (TempData["UpdateMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["UpdateMessage"]
+    </div>
+}
+
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @ViewData["Error"]
+    </div>
+}
+
+<!-- Profile Container -->
+<div class="profile-container border p-4 rounded shadow-sm">
+    <div class="row">
+        <div class="profile-container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h4>Profile Picture</h4>
+                    <img src="@TempData["ProfilePath"]" alt="Profile Image" class="img-thumbnail profile-image" />
+                </div>
+                <div class="col-md-8">
+                    <h4>Client Information</h4>
+                    <table class="table table-bordered">
+                        <tr>
+                            <th>Email</th>
+                            <td>@ViewData["Email"]</td>
+                        </tr>
+                        <tr>
+                            <th>First Name</th>
+                            <td>@ViewData["FirstName"]</td>
+                        </tr>
+                        <tr>
+                            <th>Last Name</th>
+                            <td>@ViewData["LastName"]</td>
+                        </tr>
+                        <tr>
+                            <th>Mobile Number</th>
+                            <td>@ViewData["Mobile"]</td>
+                        </tr>
+                        <tr>
+                            <th>Personal ID</th>
+                            <td>@ViewData["PersonalId"]</td>
+                        </tr>
+                        <tr>
+                            <th>Gender</th>
+                            <td>@ViewData["Sex"]</td>
+                        </tr>
+                        <tr>
+                            <th>Address</th>
+                            <td>@ViewData["Street"], @ViewData["City"], @ViewData["Country"], @ViewData["ZipCode"]</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Account Information -->
+    <h4 class="mt-4">Account Information</h4>
+    @if (ViewBag.Accounts != null && ViewBag.Accounts.Count > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Account Number</th>
+                    <th>Account Type</th>
+                    <th>Balance</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var account in ViewBag.Accounts)
+                {
+                    <tr>
+                        <td>@account?.AccountNumber</td>
+                        <td>@account?.AccountType</td>
+                        <td>@account?.Balance</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div>No account data available.</div>
+    }
+</div>
+
+<!-- Edit and Delete Actions -->
+<div class="form-buttons d-flex justify-content-end gap-2 mt-3">
+    <a href="@Url.Action("UpdateClient", "Update", new { id = ViewData["ClientId"] })" class="btn btn-warning btn-sm">
+        <i class="fas fa-edit"></i> Edit Profile
+    </a>
+</div>

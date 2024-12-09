@@ -23,8 +23,7 @@ namespace BankingControlPanel.Data.Models
         [Required (ErrorMessage = "Account type is required.")]
         [EnumValidation(typeof(AccountType))]
         public AccountType AccountType { get; set; }  // Represents the type of account (Current or Saving)
-        public bool IsActive { get; set; } // Indicates if the account is active
-
+        
         [ForeignKey("ClientId")] 
         public int ClientId { get; set; } // Foriegn Key of User's Client
         [JsonIgnore]

@@ -3,92 +3,108 @@
   "WorkspaceRootPath": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\accounts\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\accounts\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\clients\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\clients\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\searches\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\searches\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\clients\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\clients\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\accounts\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\accounts\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\accounts\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\accounts\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\data\\bankingcontrolpaneldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\data\\bankingcontrolpaneldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\bankingcontrolpanel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\bankingcontrolpanel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\validations\\mobilenumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\validations\\mobilenumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\searches\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\searches\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\searches\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\searches\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\data\\bankingcontrolpaneldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\data\\bankingcontrolpaneldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\accounts\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\accounts\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\repositories\\users\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\repositories\\users\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209095705_AddingProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingControlPanel.Data\\Migrations\\20241209095705_AddingProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209095003_UpdateInTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingControlPanel.Data\\Migrations\\20241209095003_UpdateInTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209094323_AddForiegnKeyInSearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingControlPanel.Data\\Migrations\\20241209094323_AddForiegnKeyInSearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241208213040_addingfieldstopagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241208213040_addingfieldstopagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\bankingcontrolpanel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\bankingcontrolpanel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\services\\jwt\\jwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,24 +115,36 @@
       "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\services\\jwt\\ijwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241203193729_updatesinmodelclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241203193729_updatesinmodelclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241206131547_revertchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241206131547_revertchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241206213240_removinguseridfrompagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241206213240_removinguseridfrompagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241207092826_droppingproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241207092826_droppingproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241203200013_updateuserrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241203200013_updateuserrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\validations\\mobilenumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\validations\\mobilenumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3F7FADA-1B7A-45CE-B295-9747EA59FC19}|BankingControlPanel.API\\BankingControlPanel.API.csproj|solutionrelative:bankingcontrolpanel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\validations\\enumvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\validations\\enumvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\bankingcontrolpanel.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -137,14 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203075403_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingControlPanel.Data\\Migrations\\20241203075403_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241203200013_updateuserrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241203200013_updateuserrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241203193729_updatesinmodelclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241203193729_updatesinmodelclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241203184723_addsearching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,12 +195,24 @@
       "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241206090247_phonevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241206131547_revertchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241206131547_revertchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241206131435_addedpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241206131435_addedpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241206151213_updateinpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241206151213_updateinpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241208204701_addingnewfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241208204701_addingnewfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241208201917_removingfieldsfrompagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241208201917_removingfieldsfrompagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel.api\\bankingcontrolpanel.data\\migrations\\20241209173042_removefiltertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529EA548-DB7E-4FA3-9058-F74BCFA046A4}|BankingControlPanel.Data\\BankingControlPanel.Data.csproj|solutionrelative:bankingcontrolpanel.data\\migrations\\20241209173042_removefiltertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,21 +222,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241206151213_UpdateInPagination.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T15:12:13.962Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -213,259 +232,25 @@
               "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Clients\\ClientRepository.cs",
               "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Clients\\ClientRepository.cs",
               "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Clients\\ClientRepository.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:58:08.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T12:58:08.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\ClientController.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T08:49:39.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IClient.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Clients\\IClient.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Clients\\IClient.cs",
               "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Clients\\IClient.cs",
               "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Clients\\IClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:44:04.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T13:44:04.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pagination.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Pagination.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Pagination.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Pagination.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Pagination.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:39:27.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\SearchController.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\SearchController.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\SearchController.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\SearchController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:14:21.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\User.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\User.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:24:35.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SearchRepository.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:14:23.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T10:25:32.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Client.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Client.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Client.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:59:49.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:33:16.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T10:35:03.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:15:44.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IAccount.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:24:07.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:27:46.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaginationResult.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\PaginationResult.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\PaginationResult.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\PaginationResult.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\PaginationResult.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:53:13.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20241206131547_RevertChanges.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:15:47.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "20241206131435_AddedPagination.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:14:35.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BankingControlPanelDbContext.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T08:08:41.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Filter.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Filter.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Filter.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Filter.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Filter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T07:22:06.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MobileNumberValidation.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T08:37:28.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BankingControlPanel.API.csproj",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\BankingControlPanel.API.csproj",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\BankingControlPanel.API.csproj",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\BankingControlPanel.API.csproj",
-              "RelativeToolTip": "BankingControlPanel.API\\BankingControlPanel.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-03T15:01:44.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "ISearch.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Searches\\ISearch.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Searches\\ISearch.cs",
@@ -477,43 +262,440 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
+              "Title": "SearchRepository.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Searches\\SearchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:14:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IUser.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Users\\IUser.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Users\\IUser.cs",
               "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Users\\IUser.cs",
               "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Users\\IUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T10:24:00.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "JwtAuthentication.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
-              "RelativeToolTip": "BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Users\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:15:16.743Z"
+              "WhenOpened": "2024-12-04T10:25:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:49:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Accounts\\AccountRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:15:44.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241209173042_RemoveFilterTable.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209173042_RemoveFilterTable.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241209173042_RemoveFilterTable.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209173042_RemoveFilterTable.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241209173042_RemoveFilterTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:30:42.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankingControlPanelDbContext.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Data\\BankingControlPanelDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:08:41.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Repositories\\Accounts\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:24:07.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:35:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:14:21.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:27:46.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:33:16.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Client.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Client.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Client.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:59:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Search.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Search.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Search.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Search.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:21:49.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Account.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Account.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Account.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:52:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241209095705_AddingProperty.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209095705_AddingProperty.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241209095705_AddingProperty.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209095705_AddingProperty.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241209095705_AddingProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:57:05.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241209095003_UpdateInTable.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209095003_UpdateInTable.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241209095003_UpdateInTable.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209095003_UpdateInTable.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241209095003_UpdateInTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:50:03.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241209094323_AddForiegnKeyInSearch.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209094323_AddForiegnKeyInSearch.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241209094323_AddForiegnKeyInSearch.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241209094323_AddForiegnKeyInSearch.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241209094323_AddForiegnKeyInSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:43:23.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaginationResult.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\PaginationResult.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\PaginationResult.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\PaginationResult.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\PaginationResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:53:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Pagination.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Pagination.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Pagination.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:39:27.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\User.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\User.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:24:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Address.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Address.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Address.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:52:10.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241208213040_AddingFieldsToPagination.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241208213040_AddingFieldsToPagination.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241208213040_AddingFieldsToPagination.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241208213040_AddingFieldsToPagination.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241208213040_AddingFieldsToPagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:30:40.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241208204701_AddingNewFields.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241208204701_AddingNewFields.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241208204701_AddingNewFields.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241208204701_AddingNewFields.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241208204701_AddingNewFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:47:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241208201917_RemovingFieldsFromPagination.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241208201917_RemovingFieldsFromPagination.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241208201917_RemovingFieldsFromPagination.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241208201917_RemovingFieldsFromPagination.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241208201917_RemovingFieldsFromPagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:19:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BankingControlPanel.API.csproj",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\BankingControlPanel.API.csproj",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\BankingControlPanel.API.csproj",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\BankingControlPanel.API.csproj",
+              "RelativeToolTip": "BankingControlPanel.API\\BankingControlPanel.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T15:01:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "IJwtAuthentication.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Services\\Jwt\\IJwtAuthentication.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\Services\\Jwt\\IJwtAuthentication.cs",
               "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Services\\Jwt\\IJwtAuthentication.cs",
               "RelativeToolTip": "BankingControlPanel.API\\Services\\Jwt\\IJwtAuthentication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T17:34:43.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
+              "Title": "JwtAuthentication.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
+              "RelativeToolTip": "BankingControlPanel.API\\Services\\Jwt\\JwtAuthentication.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:15:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241203193729_UpdatesInModelClasses.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:37:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241206131547_RevertChanges.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206131547_RevertChanges.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:15:47.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241206213240_RemovingUserIdFromPagination.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206213240_RemovingUserIdFromPagination.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206213240_RemovingUserIdFromPagination.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206213240_RemovingUserIdFromPagination.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206213240_RemovingUserIdFromPagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:32:40.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241207092826_DroppingProperties.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241207092826_DroppingProperties.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241207092826_DroppingProperties.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241207092826_DroppingProperties.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241207092826_DroppingProperties.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:28:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241203200013_UpdateUserRelationship.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:00:13.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20241206151213_UpdateInPagination.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206151213_UpdateInPagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:12:13.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20241206131435_AddedPagination.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241206131435_AddedPagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:14:35.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MobileNumberValidation.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
+              "RelativeToolTip": "BankingControlPanel.Data\\Validations\\MobileNumberValidation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:37:28.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\Program.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\Program.cs",
@@ -525,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "EnumValidation.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Validations\\EnumValidation.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Validations\\EnumValidation.cs",
@@ -537,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "20241206103051_RemoveIsActivePropertyFromAddress.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206103051_RemoveIsActivePropertyFromAddress.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206103051_RemoveIsActivePropertyFromAddress.cs",
@@ -549,43 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Address.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Address.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Address.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:52:10.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Search.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Search.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Search.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Search.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Search.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:21:49.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Models\\Account.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Models\\Account.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Models\\Account.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:52:07.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "20241206090758_UpdateValidations.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206090758_UpdateValidations.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206090758_UpdateValidations.cs",
@@ -597,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "20241206090247_PhoneValidation.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241206090247_PhoneValidation.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241206090247_PhoneValidation.cs",
@@ -609,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\appsettings.json",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\appsettings.json",
@@ -621,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "BankingControlPanel.Data.csproj",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\BankingControlPanel.Data.csproj",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\BankingControlPanel.Data.csproj",
@@ -633,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "20241204081752_UpdatesInTable.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241204081752_UpdatesInTable.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241204081752_UpdatesInTable.cs",
@@ -645,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "20241203195311_AdjustRelatioships.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203195311_AdjustRelatioships.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203195311_AdjustRelatioships.cs",
@@ -656,31 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20241203200013_UpdateUserRelationship.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241203200013_UpdateUserRelationship.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T20:00:13.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "20241203193729_UpdatesInModelClasses.cs",
-              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
-              "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
-              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
-              "RelativeToolTip": "BankingControlPanel.Data\\Migrations\\20241203193729_UpdatesInModelClasses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:37:29.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "20241203184723_AddSearching.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203184723_AddSearching.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203184723_AddSearching.cs",
@@ -692,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "20241203184602_AddFiltering.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203184602_AddFiltering.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203184602_AddFiltering.cs",
@@ -704,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "BankingControlPanel.API.http",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.API\\BankingControlPanel.API.http",
               "RelativeDocumentMoniker": "BankingControlPanel.API\\BankingControlPanel.API.http",
@@ -716,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "20241203184406_InitialCreate.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203184406_InitialCreate.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203184406_InitialCreate.cs",
@@ -728,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "20241203075403_filter.cs",
               "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel.API\\BankingControlPanel.Data\\Migrations\\20241203075403_filter.cs",
               "RelativeDocumentMoniker": "BankingControlPanel.Data\\Migrations\\20241203075403_filter.cs",

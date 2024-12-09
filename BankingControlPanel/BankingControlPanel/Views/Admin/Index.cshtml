@@ -1,0 +1,222 @@
+﻿@model BankingControlPanel.Model.Models.PaginationResult
+<style>
+
+    .search-history-list {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: white;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        z-index: 1000;
+        max-height: 200px;
+        max-width: 460px;
+        overflow-y: auto;
+        margin-top: 10px;
+        margin-left: 10px;
+        padding: 10px;
+    }
+
+        .search-history-list li {
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+
+            .search-history-list li:hover {
+                background-color: #f1f1f1;
+            }
+</style>
+<!-- Main Content Container -->
+<div class="content-container" >
+    <!-- Header Section with Create New Client Button -->
+    <div class="header-container d-flex justify-content-between align-items-center">
+        <h2 class="d-inline">Admin Panel</h2>
+
+        <!-- Button Container -->
+        <div class="button-container d-flex gap-2" style="width: 400px;">
+            <div class="dropdown ms-2">
+                <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Sort
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="@Url.Action("Index", new { pageNum = Model.CurrentPage, pageSize = Model.PageSize , sort = "asc"})">Ascending Order</a>
+                    <a class="dropdown-item" href="@Url.Action("Index", new { pageNum = Model.CurrentPage, pageSize = Model.PageSize , sort = "desc"})">Descending Order</a>
+                </div>
+            </div>
+            <div class="dropdown ms-2">
+                <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Filter
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="@Url.Action("Index", new { pageNum = Model.CurrentPage, pageSize = Model.PageSize , sex = "Male"})">Male</a>
+                    <a class="dropdown-item" href="@Url.Action("Index", new { pageNum = Model.CurrentPage, pageSize = Model.PageSize , sex = "Female"})">Female</a>
+                </div>
+            </div>
+
+            <a href="/Registration/Register" class="btn btn-primary btn-sm">+ User</a>
+            <a href="/Admin/Create" class="btn btn-primary btn-sm">+ Client</a>
+
+            <!-- Logout Button -->
+            <button onclick="logout()" class="btn btn-danger btn-sm">
+                Logout
+            </button>
+        </div>
+    </div>
+
+    @if (TempData["AdminMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["AdminMessage"]
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+    <form asp-controller="Admin" asp-action="Search" method="get" class="d-flex w-50 position-relative" style="margin-bottom: 20px">
+        <input class="form-control me-2" type="search" name="searchRecord" placeholder="Search" aria-label="Search" id="searchInput" onclick="PerformSearch()">
+        <ul id="searchHistory" class="search-history-list" style="display:none;">
+            @if (ViewData["SearchHistory"] != null)
+            {
+                var search = ViewData["SearchHistory"] as List<Search>;
+                if (search != null && search.Any() && search.Count > 0)
+                {
+                    foreach (var item in search)
+                    {
+                        <li onclick="selectSearchItem('@item.SearchRecord')">@item.SearchRecord</li>
+                    }
+                }
+                else
+                {
+                    <li>Search History Is Empty</li>
+                }
+            }
+            else
+            {
+                <li>Search History Is Empty</li>
+            }
+        </ul>
+
+        <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Search</button>
+    </form>
+
+    @if (Model.Clients != null && Model.Clients.Any())
+    {
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Profile Photo</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email</th>
+                    <th>Personal Id</th>
+                    <th>Mobile Number</th>
+                    <th>Sex</th>
+                    <th>City</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var client in Model.Clients)
+                {
+                    <tr>
+                        <td>@client.ClientId</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(client.ProfilePhoto))
+                            {
+                                <img src="@client.ProfilePhoto" alt="Profile" width="40" height="40" class="img-thumbnail" />
+                            }
+                            else
+                            {
+                                <span>No Photo</span>
+                            }
+                        </td>
+                        <td>@client.FirstName</td>
+                        <td>@client.LastName</td>
+                        <td>@client.Email</td>
+                        <td>@client.PersonalId</td>
+                        <td>@client.MobileNumber</td>
+                        <td>@client.Sex</td>
+                        <td>
+                            @if (client.Address != null)
+                            {
+                                @client.Address.City
+                            }
+                            else
+                            {
+                                <span>No Address</span>
+                            }
+                        </td>
+                        <td>
+                            <!-- View Details - Admin Controller -->
+                            <a href="@Url.Action("UserDetails", "Admin", new { id = client.ClientId })" class="btn btn-info btn-sm">
+                                <i class="fas fa-eye"></i>
+                            </a> |
+
+                            <!-- Update Client - Update Controller -->
+                            <a href="@Url.Action("UpdateClient", "Update", new { id = client.ClientId })" class="btn btn-warning btn-sm">
+                                <i class="fas fa-edit"></i>
+                            </a>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No clients found.</p>
+    }
+
+    <!-- Pagination Controls -->
+    <div class="pagination">
+
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <a href="@Url.Action("Index", new { pageNum = i, pageSize = Model.PageSize, sort = "", sex = "" })" class="btn btn-sm @((i == Model.CurrentPage) ? "active" : "")">
+                @i
+            </a>
+        }
+    </div>
+</div>
+
+<script type="text/javascript">
+    function PerformSearch() {
+        const searchHistory = document.getElementById("searchHistory");
+        if (searchHistory.style.display === "none" || searchHistory.style.display === "") {
+            searchHistory.style.display = "block";
+        } else {
+            searchHistory.style.display = "none";
+        }
+    }
+
+    function selectSearchItem(searchRecord) {
+        const searchInput = document.getElementById("searchInput");
+        searchInput.value = searchRecord;
+        document.getElementById("searchHistory").style.display = "none";
+    }
+
+    document.addEventListener('click', function (event) {
+        var searchInput = document.getElementById("searchInput");
+        var searchHistory = document.getElementById("searchHistory");
+        if (!searchInput.contains(event.target) && !searchHistory.contains(event.target)) {
+            searchHistory.style.display = "none";
+        }
+    });
+
+    function logout() {
+        localStorage.removeItem("JwtToken");
+        sessionStorage.removeItem("JwtToken");
+        document.cookie = "JwtToken=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+        window.location.href = "/Login/Login";
+    }
+</script>
+
+
+
+
+

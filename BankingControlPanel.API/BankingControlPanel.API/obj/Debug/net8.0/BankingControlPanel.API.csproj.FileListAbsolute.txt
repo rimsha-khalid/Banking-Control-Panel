@@ -173,3 +173,8 @@ D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bi
 D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\microsoft.identitymodel.dll
 D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\PhoneNumbers.dll
 D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\obj\Debug\net8.0\BankingControlPanel.API.sourcelink.json
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\System.Web.Http.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "Welcome to your Profile!";
+}
+
+<h2 class="text-center">@ViewData["Title"]</h2>
+
+<!-- Display Success or Error Messages -->
+@if (TempData["UpdateMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["UpdateMessage"]
+    </div>
+}
+
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @ViewData["Error"]
+    </div>
+}
+
+<!-- Profile Container -->
+<div class="profile-container border p-4 rounded shadow-sm">
+    <div class="row">
+        <div class="profile-container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h4>Profile Picture</h4>
+                    <img src="@TempData["ProfilePath"]" alt="Profile Image" class="img-thumbnail profile-image" />
+                </div>
+                <div class="col-md-8">
+                    <h4>Client Information</h4>
+                    <table class="table table-bordered">
+                        <tr>
+                            <th>Email</th>
+                            <td>@ViewData["Email"]</td>
+                        </tr>
+                        <tr>
+                            <th>First Name</th>
+                            <td>@ViewData["FirstName"]</td>
+                        </tr>
+                        <tr>
+                            <th>Last Name</th>
+                            <td>@ViewData["LastName"]</td>
+                        </tr>
+                        <tr>
+                            <th>Mobile Number</th>
+                            <td>@ViewData["Mobile"]</td>
+                        </tr>
+                        <tr>
+                            <th>Personal ID</th>
+                            <td>@ViewData["PersonalId"]</td>
+                        </tr>
+                        <tr>
+                            <th>Gender</th>
+                            <td>@ViewData["Sex"]</td>
+                        </tr>
+                        <tr>
+                            <th>Address</th>
+                            <td>@ViewData["Street"], @ViewData["City"], @ViewData["Country"], @ViewData["ZipCode"]</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Account Information -->
+    <h4 class="mt-4">Account Information</h4>
+    @if (ViewBag.Accounts != null && ViewBag.Accounts.Count > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Account Number</th>
+                    <th>Account Type</th>
+                    <th>Balance</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var account in ViewBag.Accounts)
+                {
+                    <tr>
+                        <td>@account?.AccountNumber</td>
+                        <td>@account?.AccountType</td>
+                        <td>@account?.Balance</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div>No account data available.</div>
+    }
+</div>
+
+<!-- Edit and Delete Actions -->
+<div class="form-buttons d-flex justify-content-between gap-2 mt-3">
+    <!-- Update Profile Button -->
+    <a href="@Url.Action("UpdateProfile", "User", new { id = ViewData["ClientId"] })" class="btn btn-warning btn-sm">
+        <i class="fas fa-edit" ></i> Edit Profile
+    </a>
+
+    <!-- Logout Button -->
+    <button onclick="logout()" class="btn btn-danger btn-sm">
+        Logout
+    </button>
+</div>
+
+<script type="text/javascript">
+    // JavaScript function to handle logout
+    function logout() {
+        // Remove JWT token from localStorage or sessionStorage
+        localStorage.removeItem("JwtToken");  // If you're using localStorage
+        sessionStorage.removeItem("JwtToken"); // If you're using sessionStorage
+
+        // Optionally, if you're using JWT token in a cookie
+        document.cookie = "JwtToken=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+
+        // Redirect to login page (or any page after logout)
+        window.location.href = "/Login/Login"; // Adjust to the login page or home page
+    }
+</script>

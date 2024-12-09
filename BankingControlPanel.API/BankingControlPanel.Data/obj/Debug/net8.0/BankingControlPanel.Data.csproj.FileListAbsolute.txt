@@ -12,3 +12,4 @@ D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\o
 D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.pdb
 D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.genruntimeconfig.cache
 D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\ref\BankingControlPanel.Data.dll
+D:\Internship\FinalAssignment\BankingControlPanel.API\BankingControlPanel.Data\obj\Debug\net8.0\BankingControlPanel.Data.sourcelink.json

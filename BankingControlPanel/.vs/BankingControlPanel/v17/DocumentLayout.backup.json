@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\controllers\\errordialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\controllers\\errordialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\errordialogue\\searcherror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\errordialogue\\searcherror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\errordialogue\\loginerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\errordialogue\\loginerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\user\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\user\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\update\\updateclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\update\\updateclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel\\bankingcontrolpanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0CDB74C-CB9C-4FDC-A8D6-7244BF32AE45}|BankingControlPanel\\BankingControlPanel.csproj|solutionrelative:bankingcontrolpanel\\bankingcontrolpanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|d:\\internship\\finalassignment\\bankingcontrolpanel\\bankingcontrolpanel.model\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED04D59-71BC-49D4-BFE9-46AC3926BA1D}|BankingControlPanel.Model\\BankingControlPanel.Model.csproj|solutionrelative:bankingcontrolpanel.model\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BankingControlPanel\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:16:06.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BankingControlPanel\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:51:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorDialogueController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\ErrorDialogueController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Controllers\\ErrorDialogueController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\ErrorDialogueController.cs",
+              "RelativeToolTip": "BankingControlPanel\\Controllers\\ErrorDialogueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:48:48.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAGUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:05:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T20:02:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchError.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\ErrorDialogue\\SearchError.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\ErrorDialogue\\SearchError.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\ErrorDialogue\\SearchError.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\ErrorDialogue\\SearchError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:34:34.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "BankingControlPanel\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:26:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BankingControlPanel\\Controllers\\UserController.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAO0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:49:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginError.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\ErrorDialogue\\LoginError.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\ErrorDialogue\\LoginError.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\ErrorDialogue\\LoginError.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\ErrorDialogue\\LoginError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:33:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateController.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\UpdateController.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Controllers\\UpdateController.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Controllers\\UpdateController.cs",
+              "RelativeToolTip": "BankingControlPanel\\Controllers\\UpdateController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAK4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:07:19.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T11:22:26.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\User\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\User\\UpdateProfile.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\User\\UpdateProfile.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\User\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:08:16.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateClient.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Update\\UpdateClient.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Update\\UpdateClient.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Update\\UpdateClient.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Update\\UpdateClient.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T06:46:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T20:24:49.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaginationResult.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\PaginationResult.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\PaginationResult.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\PaginationResult.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\PaginationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:11:47.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientRegistration.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\ClientRegistration.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\ClientRegistration.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\ClientRegistration.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\ClientRegistration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:12:20.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Admin\\UserDetails.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Admin\\UserDetails.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:09:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T09:52:34.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T11:22:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\Client.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Client.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\Client.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:48:40.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Search.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Search.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\Search.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Search.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:49:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BankingControlPanel\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BankingControlPanel\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHoCAAAAAAAAAAAAAJUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-05T20:09:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\Registration.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Registration.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\Registration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:30:56.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\Account.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Account.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\Account.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:52:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Program.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Program.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Program.cs",
+              "RelativeToolTip": "BankingControlPanel\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:44:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:02:32.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Registration\\Register.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Registration\\Register.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Registration\\Register.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Registration\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:11:00.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\Address.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Address.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:51:50.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\User.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\User.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:55:27.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:20:53.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "BankingControlPanel\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "BankingControlPanel\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:33:57.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BankingControlPanel.csproj",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\BankingControlPanel.csproj",
+              "RelativeDocumentMoniker": "BankingControlPanel\\BankingControlPanel.csproj",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\BankingControlPanel.csproj",
+              "RelativeToolTip": "BankingControlPanel\\BankingControlPanel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T11:21:29.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BankingControlPanel.Model\\Models\\Login.cs",
+              "ToolTip": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel.Model\\Models\\Login.cs",
+              "RelativeToolTip": "BankingControlPanel.Model\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:32:22.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+﻿ @model BankingControlPanel.Model.Models.ClientRegistration
+
+@{
+    ViewData["Title"] = "Update Client";
+}
+
+<h2 style="margin-top: 50px">@ViewData["Title"]</h2>
+
+<!-- Back Button -->
+<a href="@Url.Action("Index", "Admin")" class="btn btn-secondary btn-sm back-btn">
+    <i class="fas fa-arrow-left"></i> Back
+</a>
+
+<!-- Display Success or Error Messages -->
+@if (TempData["UpdateMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["UpdateMessage"]
+    </div>
+}
+
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @ViewData["Error"]
+    </div>
+}
+
+<!-- Validation Summary -->
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form class="form-container" asp-controller="Update" asp-action="UpdateClient" method="post" enctype="multipart/form-data">
+    <!-- Hidden Field for ClientId -->
+    <input type="hidden" asp-for="ClientId" value="@ViewData["ClientId"]" />
+
+    <!-- Email -->
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@ViewData["Email"]" readonly />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <!-- First Name -->
+    <div class="form-group">
+        <label for="FirstName">First Name</label>
+        <input type="text" class="form-control" id="FirstName" name="FirstName" value="@ViewData["FirstName"]" required />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <!-- Last Name -->
+    <div class="form-group">
+        <label for="LastName">Last Name</label>
+        <input type="text" class="form-control" id="LastName" name="LastName" value="@ViewData["LastName"]" required />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <!-- Mobile Number -->
+    <div class="form-group">
+        <label for="MobileNumber">Mobile Number</label>
+        <input type="text" class="form-control" id="MobileNumber" name="MobileNumber" value="@ViewData["Mobile"]" required />
+        <span asp-validation-for="MobileNumber" class="text-danger"></span>
+    </div>
+
+    <!-- Personal Id -->
+    <div class="form-group">
+        <label for="PersonalId">Personal ID</label>
+        <input type="text" class="form-control" id="PersonalId" name="PersonalId" value="@ViewData["PersonalId"]" required />
+        <span asp-validation-for="PersonalId" class="text-danger"></span>
+    </div>
+
+    <!-- Sex (Gender) -->
+    <div class="form-group">
+        <label for="Sex">Sex</label>
+        <select class="form-control" id="Sex" name="Sex" required>
+            @if (ViewData["Sex"] != null)
+            {
+                var selectedSex = ViewData["Sex"].ToString();
+
+                if (selectedSex == "Male")
+                {
+                    <option value="Male" selected>Male</option>
+                    <option value="Female">Female</option>
+                }
+                else if (selectedSex == "Female")
+                {
+                    <option value="Male">Male</option>
+                    <option value="Female" selected>Female</option>
+                }
+                else
+                {
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                }
+            }
+            else
+            {
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            }
+        </select>
+        <span asp-validation-for="Sex" class="text-danger"></span>
+    </div>
+
+    <!-- Address -->
+    <div class="form-group">
+        <label for="Country">Country</label>
+        <input type="text" class="form-control" id="Country" name="Country" value="@ViewData["Country"]" required />
+        <span asp-validation-for="Country" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="City">City</label>
+        <input type="text" class="form-control" id="City" name="City" value="@ViewData["City"]" required />
+        <span asp-validation-for="City" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Street">Street</label>
+        <input type="text" class="form-control" id="Street" name="Street" value="@ViewData["Street"]" required />
+        <span asp-validation-for="Street" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ZipCode">Zip Code</label>
+        <input type="text" class="form-control" id="ZipCode" name="ZipCode" value="@ViewData["ZipCode"]" required />
+        <span asp-validation-for="ZipCode" class="text-danger"></span>
+    </div>
+
+    <!-- Profile Image -->
+    <div class="form-group">
+        <label for="ProfilePhoto">Profile Photo</label>
+        <input type="file" class="form-control" id="ProfilePhoto" name="ProfilePhoto" />
+        <span asp-validation-for="ProfilePhoto" class="text-danger"></span>
+        @if (TempData["ProfilePath"] != null)
+        {
+            <img src="@TempData["ProfilePath"]" alt="Profile Image" class="img-thumbnail mt-2" width="100" />
+        }
+    </div>
+
+    <!-- Account Information -->
+    <h4 class="account-info-header">Account Information</h4>
+    @if (ViewBag.Accounts != null && ViewBag.Accounts.Count > 0)
+    {
+        @foreach (var Item in ViewBag.Accounts)
+        {
+            <div class="form-group">
+                <label for="AccountNumber">Account Number</label>
+                <input type="text" class="form-control" id="AccountNumber" name="AccountNumber" value="@Item?.AccountNumber" required />
+                <span asp-validation-for="AccountNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Balance">Balance</label>
+                <input type="text" class="form-control" id="Balance" name="Balance" value="@Item?.Balance" required />
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="AccountType">Account Type</label>
+                <select class="form-control" id="AccountType" name="AccountType">
+                    @if (ViewData["AccountType"] != null)
+                    {
+                        var accountType = ViewData["AccountType"].ToString();
+                        if (accountType == "Saving")
+                        {
+                            <option value="Saving" selected>Saving</option>
+                            <option value="Current">Current</option>
+                        }
+                        else if (accountType == "Current")
+                        {
+                            <option value="Saving">Saving</option>
+                            <option value="Current" selected>Current</option>
+                        }
+                        else
+                        {
+                            <option value="Saving">Saving</option>
+                            <option value="Current">Current</option>
+                        }
+                    }
+                    else
+                    {
+                        <option value="Saving">Saving</option>
+                        <option value="Current">Current</option>
+                    }
+                </select>
+                <span asp-validation-for="AccountType" class="text-danger"></span>
+            </div>
+        }
+    }
+
+    <!-- Submit Button -->
+    <div class="form-buttons d-flex justify-content-end gap-2">
+        <button type="submit" class="btn btn-primary btn-sm">Update Client</button>
+        <a href="@Url.Action("Index", "Admin")" class="btn btn-secondary btn-sm">Cancel</a>
+    </div>
+</form>

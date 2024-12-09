@@ -1,6 +1,7 @@
 ﻿using BankingControlPanel.Data.Data;
 using BankingControlPanel.Data.Models;
 using Microsoft.EntityFrameworkCore;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace BankingControlPanel.API.Repositories.Searches
 {
@@ -21,6 +22,7 @@ namespace BankingControlPanel.API.Repositories.Searches
             // Apply search filter if search record argument is not empty
             if (!string.IsNullOrEmpty(searchRecord))
             {
+                
                 searchClient = searchClient
                        .Where(c => c.FirstName.ToLower().Contains(searchRecord.ToLower()) ||
                        c.LastName.ToLower().Contains(searchRecord.ToLower()) ||
@@ -28,7 +30,12 @@ namespace BankingControlPanel.API.Repositories.Searches
             }
 
             // Execute search and retrieve clients
-            var clients = await searchClient.ToListAsync();
+            var clients = await searchClient
+                
+                .Include(e => e.Address)
+
+                .Include(e => e.Account)
+                .ToListAsync();
 
             // Check if search was successful
             bool isSuccessful = clients.Any();

@@ -30,5 +30,13 @@ namespace BankingControlPanel.API.Repositories.Users
             await _context.SaveChangesAsync();  
             return user;
         }
+        public async Task<List<User>> GetAllUser()
+        {
+
+            var users = await _context.Users
+                .ToListAsync();
+            return users;
+        }
+
     }
 }

@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BankingControlPanel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BankingControlPanel.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\1c48e6bd-2f02-4015-96e3-0167e3a48210_download (1).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\1c48e6bd-2f02-4015-96e3-0167e3a48210_download (1).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\2a1e24a3-26a4-418e-afa2-87229d7e8471_download (3).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\2a1e24a3-26a4-418e-afa2-87229d7e8471_download (3).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\3eb123a5-0001-4788-9641-8f8a512a031c_download (3).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\3eb123a5-0001-4788-9641-8f8a512a031c_download (3).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\6f6f9b22-7077-4ad9-afd4-c6b3e345d18e_download (2).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\6f6f9b22-7077-4ad9-afd4-c6b3e345d18e_download (2).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\7eec5a31-a6cf-42da-910a-525f41d7243e_download (1).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\7eec5a31-a6cf-42da-910a-525f41d7243e_download (1).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\8ce4df6c-3e9a-406a-87f2-b75c47136167_download (1).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\8ce4df6c-3e9a-406a-87f2-b75c47136167_download (1).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\98dc2b11-5a94-4af6-9818-313daeeee8c7_download (1).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\98dc2b11-5a94-4af6-9818-313daeeee8c7_download (1).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\a2804723-deb2-44d2-ae5a-610def7aba25_download (2).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\a2804723-deb2-44d2-ae5a-610def7aba25_download (2).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\be336484-55cd-4a33-b15f-1bb0074f2815_download (2).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\be336484-55cd-4a33-b15f-1bb0074f2815_download (2).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\dbbebf1e-fd0c-4c3c-9fc0-6d5d552c8b0e_download (2).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\dbbebf1e-fd0c-4c3c-9fc0-6d5d552c8b0e_download (2).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\e21c3ec0-aecc-409c-bc50-3ed65daba0a9_download (3).png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\e21c3ec0-aecc-409c-bc50-3ed65daba0a9_download (3).png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\ProfilePhoto\\images.png",
+      "PackagePath": "staticwebassets\\ProfilePhoto\\images.png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\uploads\\1ae4c27a-9e4c-41c5-a54f-fddf2ab86a72.png",
+      "PackagePath": "staticwebassets\\uploads\\1ae4c27a-9e4c-41c5-a54f-fddf2ab86a72.png"
+    },
+    {
+      "Id": "D:\\Internship\\FinalAssignment\\BankingControlPanel\\BankingControlPanel\\wwwroot\\uploads\\36144f3f-f020-4578-a676-dafcc44f698b.png",
+      "PackagePath": "staticwebassets\\uploads\\36144f3f-f020-4578-a676-dafcc44f698b.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BankingControlPanel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BankingControlPanel.props",
+      "PackagePath": "build\\BankingControlPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BankingControlPanel.props",
+      "PackagePath": "buildMultiTargeting\\BankingControlPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BankingControlPanel.props",
+      "PackagePath": "buildTransitive\\BankingControlPanel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

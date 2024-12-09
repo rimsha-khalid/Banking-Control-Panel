@@ -223,52 +223,6 @@
   },
   {
     "ContainingType": "BankingControlPanel.API.Controllers.ClientController",
-    "Method": "GetClients",
-    "RelativePath": "api/Client/GetAllClients",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "firstName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "lastName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "sex",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "sortBy",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "sortOrder",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "pageNumber",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "pageSize",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BankingControlPanel.API.Controllers.ClientController",
     "Method": "GetClientByID",
     "RelativePath": "api/Client/GetClientByID/{id}",
     "HttpMethod": "GET",
@@ -295,30 +249,14 @@
   },
   {
     "ContainingType": "BankingControlPanel.API.Controllers.ClientController",
-    "Method": "FilterClients",
-    "RelativePath": "api/Client/GetFilteredClients",
+    "Method": "GetClientsPagination",
+    "RelativePath": "api/Client/PagenatedData",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "filterParams",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BankingControlPanel.API.Controllers.ClientController",
-    "Method": "GetAllClient",
-    "RelativePath": "api/Client/Pagination",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "pageNumber",
+        "Name": "pageNum",
         "Type": "System.Int32",
         "IsRequired": false
       },
@@ -326,9 +264,29 @@
         "Name": "pageSize",
         "Type": "System.Int32",
         "IsRequired": false
+      },
+      {
+        "Name": "sort",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sex",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "BankingControlPanel.Data.Models.PaginationResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "BankingControlPanel.API.Controllers.ClientController",
@@ -357,15 +315,15 @@
     ]
   },
   {
-    "ContainingType": "BankingControlPanel.API.Controllers.ClientController",
-    "Method": "SortClients",
-    "RelativePath": "api/Client/Sort",
+    "ContainingType": "BankingControlPanel.API.Controllers.SearchController",
+    "Method": "SearchClients",
+    "RelativePath": "api/Search",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "sortBy",
+        "Name": "searchRecord",
         "Type": "System.String",
         "IsRequired": false
       }
@@ -383,20 +341,24 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "BankingControlPanel.API.Controllers.SearchController",
-    "Method": "SearchClients",
-    "RelativePath": "api/Search/Search",
+    "ContainingType": "BankingControlPanel.API.Controllers.UserController",
+    "Method": "GetAllClient",
+    "RelativePath": "api/User/GetAllUser",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
+    "Parameters": [],
+    "ReturnTypes": [
       {
-        "Name": "searchRecord",
-        "Type": "System.String",
-        "IsRequired": false
+        "Type": "System.Collections.Generic.List\u00601[[BankingControlPanel.Data.Models.User, BankingControlPanel.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
       }
-    ],
-    "ReturnTypes": []
+    ]
   },
   {
     "ContainingType": "BankingControlPanel.API.Controllers.UserController",

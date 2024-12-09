@@ -14,15 +14,8 @@ namespace BankingControlPanel.Data.Models
 
         [Key]
         public int Id { get; set; }
-        public int PageNumber { get; set; }
-        public int PageSize { get; set; }
-
-        // Store filtering details as strings
-        public string FilterFirstName { get; set; }  // Filter by First Name
-        public string FilterLastName { get; set; }   // Filter by Last Name
-        public string FilterSex { get; set; }        // Store Sex enum as string (e.g., "Male" or "Female")
-        public string UserId { get; set; }   // Foreign Key of associated User
-
-      
+        public int TotalRecords { get; set; }
+        public int TotalPages { get; set; }
+        public string Filter { get; set; }        // Store Sex enum as string (e.g., "Male" or "Female")
     }
 }
